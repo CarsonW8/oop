@@ -1,1 +1,13 @@
 .venv/
+__pycache__/
+BankAccountClass.py
+BankAccountProgram.py
+calc_gross_pay.py
+CellPhoneClass.py
+CellPhoneProgram.py
+Coin Toss.py
+CoinClass.py
+InsectClass.py
+InsectProgram.py
+StudentClass.py
+StudentProgram.py
