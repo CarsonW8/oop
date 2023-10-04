@@ -1,5 +1,5 @@
 .venv/
-.__pycache__/
+__pycache__/
 BankAccountClass.py
 BankAccountProgram.py
 calc_gross_pay.py
